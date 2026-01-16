@@ -1,4 +1,4 @@
-# Ransomware Pédagogique - Projet Python
+# Ransomware Pédagogique - Projet Python - Lohan et Melvin
 
 ## 📋 Fonctionnalités implémentées
 
