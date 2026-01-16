@@ -26,8 +26,6 @@
 ### Partie bonus ✅
 
 - ✅ **Système de logs** : Horodatage avec niveaux (INFO, ERROR, SUCCESS, WARNING)
-- ✅ **Multithreading** : Le serveur peut gérer plusieurs clients simultanément
-- ✅ **Gestion d'erreurs** : Try/except pour gérer les erreurs réseau et système
 
 ## 🏗️ Architecture globale
 
