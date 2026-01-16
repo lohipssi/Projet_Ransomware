@@ -8,7 +8,6 @@
 - ✅ Génération de clé de chiffrement depuis `/dev/urandom` avec lettres A-Z uniquement
 - ✅ Identification unique de la machine via UUID (`/proc/sys/kernel/random/uuid`)
 - ✅ Chiffrement XOR réversible des fichiers
-- ✅ Parcours récursif du répertoire cible
 - ✅ Exfiltration des informations (UUID + clé) vers le serveur C2
 - ✅ Réception et exécution de commandes à distance
 - ✅ Commande de déchiffrement des fichiers
@@ -17,7 +16,6 @@
 - ✅ Download de fichiers (serveur → client)
 
 **Côté Serveur (C2):**
-- ✅ Acceptation de connexions TCP multiples
 - ✅ Réception et stockage persistant de l'UUID et de la clé
 - ✅ Envoi de commandes aux clients connectés
 - ✅ Menu interactif pour contrôler les victimes
